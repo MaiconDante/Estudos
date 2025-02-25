@@ -1,0 +1,1 @@
+# Scripts que desenvolvi ao realizar os cursos do Curso em Video
